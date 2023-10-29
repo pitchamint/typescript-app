@@ -5,7 +5,8 @@ Empty app for kata or practice typescript with node.js and jest.
 Pre-riquisites
 1. Node.JS
 2. Typescript
-3. Jest  
+3. Jest
+4. Visual Studio Code. 
 
 to install package, run...
 ```
