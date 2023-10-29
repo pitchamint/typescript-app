@@ -12,7 +12,7 @@ to install package, run...
 ```
 npm install
 ```
-to run app (that should not have anything accept print 'Hello, World')
+to run app (that should not have anything accept print 'Hello, TypeScript.')
 ```
 npm run
 ```
