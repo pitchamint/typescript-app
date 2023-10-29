@@ -1,5 +1,12 @@
 # typescript-app
 
+Empty app for kata or practice typescript with node.js and jest.
+
+Pre-riquisites
+1. Node.JS
+2. Typescript
+3. Jest  
+
 to install package, run...
 ```
 npm install
